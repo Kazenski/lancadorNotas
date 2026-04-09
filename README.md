@@ -11,6 +11,7 @@ O código foi pensado para ser simples e direto ao ponto:
 ```text
 📦 automatizateSeletores
  ┣ 🐍 transferir_notas.py      # O código em Python (Lógica de extração e injeção)
+ ┣ 📋 trocar_seletores.py      # O código em Python simples de troca de seletor
  ┣ 📋 requirements.txt         # Arquivo com as bibliotecas necessárias
  ┗ 📖 README.md                # Documentação do projeto
 ```
